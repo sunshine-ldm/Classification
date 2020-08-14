@@ -1,0 +1,6 @@
+model_checkpoint_path: "cat_dog.ckpt-7960"
+all_model_checkpoint_paths: "cat_dog.ckpt-7800"
+all_model_checkpoint_paths: "cat_dog.ckpt-7840"
+all_model_checkpoint_paths: "cat_dog.ckpt-7880"
+all_model_checkpoint_paths: "cat_dog.ckpt-7920"
+all_model_checkpoint_paths: "cat_dog.ckpt-7960"
